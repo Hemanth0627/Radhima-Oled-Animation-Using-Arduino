@@ -1,4 +1,4 @@
-# RADHIMA UNO OLED TEST
+# RADHIMA SONG WITH ARDUINO UNO OLED TEST
 
 ## Files in this folder
 - RadhimaUnoTest.ino: Arduino sketch
