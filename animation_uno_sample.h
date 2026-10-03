@@ -7,8 +7,7 @@
 #define RADHIMA_WIDTH 128
 #define RADHIMA_HEIGHT 64
 
-// Each frame is sampled from original frames 0, 15, 30, ... 210.
-// Delays combine the original frame durations through the next sample.
+
 const uint16_t Radhima_delays[RADHIMA_FRAME_COUNT] PROGMEM = {
   1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1200
 };
